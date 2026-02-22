@@ -1,0 +1,10 @@
+            termux app
+
+" some commands of termux "
+ 
+ifconfig                      = is used to know the ip address
+nmap 'ip address ' -v         = to know the ports with details
+nmap ' ip address ' -v -sn    = to know how many host are online
+xxx.xxx.1.1                   = router ip adress
+ctrl + c                      = is used for stoping the process
+nmap "host ip address" -v     = to know which ports are open in this ip

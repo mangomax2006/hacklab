@@ -1,0 +1,52 @@
+install bytecode-viewer
+
+┌──(kali㉿kali)-[~]
+└─$ sudo su                         
+[sudo] password for kali: 
+Sorry, try again.
+[sudo] password for kali: 
+┌──(root㉿kali)-[/home/kali]
+└─# apt install bytecode-viewer
+
+install MOBSF
+
+
+
+
+
+
+
+install Android-InsecureBankv2
+
+
+┌──(root㉿kali)-[/home/kali]
+└─# git clone https://github.com/dineshshetty/Android-InsecureBankv2.git
+
+Cloning into 'Android-InsecureBankv2'...
+remote: Enumerating objects: 1791, done.
+remote: Counting objects: 100% (189/189), done.
+remote: Compressing objects: 100% (36/36), done.
+remote: Total 1791 (delta 160), reused 153 (delta 153), pack-reused 1602 (from 1)
+Receiving objects: 100% (1791/1791), 61.07 MiB | 749.00 KiB/s, done.
+Resolving deltas: 100% (625/625), done.
+                                                                                                                             
+┌──(root㉿kali)-[/home/kali]
+└─# ls
+Android-InsecureBankv2  Desktop    error.log    MaxPhisher                       Music       Public         Videos
+creds.json              Documents  instainsane  Media                            Net-Strike  Templates      zphisher
+creds.txt               Downloads  ip.txt       Mobile-Security-Framework-MobSF  Pictures    thief_raccoon
+                                                                                                                             
+┌──(root㉿kali)-[/home/kali]
+└─# cd Android-InsecureBankv2
+                                                                                                                             
+┌──(root㉿kali)-[/home/kali/Android-InsecureBankv2]
+└─# ls
+ AndroLabServer   InsecureBankv2.apk   README.markdown   Thumbs.db          Walkthroughs
+ InsecureBankv2   LICENSE              Spoilers         'Usage Guide.pdf'   wip-attackercode
+                                                                                                                             
+┌──(root㉿kali)-[/home/kali/Android-InsecureBankv2]
+└─# 
+
+
+
+

