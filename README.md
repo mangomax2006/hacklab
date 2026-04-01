@@ -15,3 +15,5 @@ https://github.com/davenisc/thief_raccoon.git
 https://github.com/FluxionNetwork/fluxion.git
 # claw code
 https://github.com/instructkr/claw-code.git
+# world Monitor 
+https://github.com/koala73/worldmonitor.git
