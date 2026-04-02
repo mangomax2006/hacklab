@@ -2,7 +2,7 @@
 
 Reduce the PDF size.
 
-zip book.zip "The Art of Invisibility - The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data by Kevin Mitnick.pdf"
+zip book.zip "The Art of Invisibility.pdf"
 
 Then embed:
 
