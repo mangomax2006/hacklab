@@ -37,3 +37,6 @@ https://github.com/redhuntlabs/Awesome-Asset -Discovery
 
 # GhostTrack
 https://github.com/HunxByts/GhostTrack.git
+
+# evilgnix
+https://github.com/kgretzky/evilginx2.git
