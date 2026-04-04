@@ -1,0 +1,6 @@
+1__
+1st we just run am Nmap scan
+> Nmap -A -F T2 ip -V
+T2 is slowing the scanning which is required to be undetected 
+
+2__
