@@ -7,3 +7,6 @@ T2 is slowing the scanning which is required to be undetected
 directory scanning
 ffuf -w /usr/share/wordlists/dirb/common.txt -u http://tengt.htb/FUZZ -p 1
 
+3__
+seclists Download 
+git clone https://github.com/danielmiessler/SecLists.git
