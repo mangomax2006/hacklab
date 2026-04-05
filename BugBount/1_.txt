@@ -16,3 +16,18 @@ https://www.shodan.io/
 > shodan
 for API Key 
 shodan < dashboard  < account API
+> shodan init <api>
+
+> shodan scan -h
+Usage: shodan scan [OPTIONS] COMMAND [ARGS]...
+Scan an IP/ netblock using Shodan.
+Options:
+-h, --help Show this message and exit.
+Commands:
+internet Scan the Internet for a specific port and protocol using the... list Show recently launched scans
+protocols List the protocols that you can scan with using Shodan.
+status Check the status of an on-demand scan.
+submit
+Scan an IP/ netblock using Shodan.
+
+
