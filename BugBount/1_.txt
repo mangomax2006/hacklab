@@ -83,5 +83,9 @@ https://sub.domain.com/blog/artical/search?id=42
 <<>> DiG 9.18.0-2-Debian <<>> axfr @10.10.10.123 friendzone.red
 
 
-.
+5__
+(kalikali)-[~/Desktop/sql]
+> nslookup ww.google.com
+
+
 
