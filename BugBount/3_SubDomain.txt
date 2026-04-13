@@ -12,6 +12,23 @@ parallels kali-linux-2022-2)-[~/go/bin]
 -(mod®phdsec)-[~]
 $ sublist3r -h
 
+mod@phdsec:~
+> sublist3r -d yahoo.com
+            Subjstor
+Searching now in Baidu.. I
+Searching now in Yahoo..
+Searching now in Google
+Searching now
+Searching now in Virustotal..
+Searching now in ThreatCrowd..
+Searching now in SSL Certificates
+
+(mod® phdsec)-[~]
+> amass -h
+
+mod phdsec)-[~]
+amass enum -d yahoo.com
+
 
 
 
