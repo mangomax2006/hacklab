@@ -29,7 +29,7 @@ Searching now in SSL Certificates
 mod phdsec)-[~]
 amass enum -d yahoo.com
 
-
-
+-(mod® phdsec)-[~]
+amass enum -passive -d yahoo.com
 
 
