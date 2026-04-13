@@ -1,0 +1,10 @@
+# 8__
+
+parallels kali-linux-2022-2)-[~/go/bin]
+> sudo apt install httprobe
+
+-(parallels® kali-linux-2022-2)
+> cat yahoo.urls | httprobe
+
+(mod® phdsec)-[~]
+> sudo apt install subilist3r
