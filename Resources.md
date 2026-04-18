@@ -80,3 +80,6 @@ https://github.com/fathyb/carbonyl.git
 
 # Wuzen-Framework---Advanced-Mobile-Security-Research-Platform
 https://github.com/alby77689-design/Wuzen-Framework---Advanced-Mobile-Security-Research-Platform.git
+
+# WUZEN-MYTHOS-EDITION
+https://github.com/sunimakgoho-arch/WUZEN-MYTHOS-EDITION.git
