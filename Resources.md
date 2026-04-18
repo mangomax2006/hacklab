@@ -83,3 +83,6 @@ https://github.com/alby77689-design/Wuzen-Framework---Advanced-Mobile-Security-R
 
 # WUZEN-MYTHOS-EDITION
 https://github.com/sunimakgoho-arch/WUZEN-MYTHOS-EDITION.git
+
+# Linux on phone 
+https://github.com/cloudaii/termux-linux.git
