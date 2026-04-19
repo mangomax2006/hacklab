@@ -14,3 +14,6 @@ https://github.com/The-Art-of-Hacking/h4cker.git
 
 # claw code
 https://github.com/instructkr/claw-code.git
+
+# system Prompt leak
+https://github.com/asgeirtj/system_prompts_leaks.git
