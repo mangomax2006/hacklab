@@ -11,3 +11,6 @@ https://github.com/redhuntlabs/Awesome-Asset -Discovery
 
 # Hacking resource 
 https://github.com/The-Art-of-Hacking/h4cker.git
+
+# claw code
+https://github.com/instructkr/claw-code.git
