@@ -1,3 +1,9 @@
+> pkg install x11-repo
+> pkg install termux-x11-nightly
+> pkg install xfce gimp
+> termux-x11 :0 -xstartup "dbus-lau nch --exit-with-session xfce4-session"
+
+
 ✅ Fix (Do this exactly)
 1. Update package lists
 > pkg update
