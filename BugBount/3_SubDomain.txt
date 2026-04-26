@@ -32,4 +32,9 @@ amass enum -d yahoo.com
 -(mod® phdsec)-[~]
 amass enum -passive -d yahoo.com
 
+# SubDomain Find using wordlist
+
+-(parallels®kali-linux-2022-2)-[~]
+> ffuf -u https://FUZZ.yahoo.com/ -w /usr/share/wordlists/dirb/common.txt -p 1
+
 
