@@ -45,3 +45,7 @@ amass enum -passive -d yahoo.com
 
 (parallels kali-linux-2022-2)-[~]
 > ffuf -u https://api.yahoo.com/FUZZ -w /usr/share/wordlists/dirb/common.txt
+
+(parallels®kali-linux-2022-2)-[~] 
+> dirb https://yahoo.com
+
