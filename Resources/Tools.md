@@ -1,23 +1,23 @@
 # hacking_tools
-# zhisher tool
+# zhisher tool "Phishing tool"
 https://github.com/htr-tech/zphisher.git
 
-# instainsane
+# instainsane "Instagram Bruteforce"
 https://github.com/umeshshinde19/instainsane.git
 
-# Pegasusa-proV2.7
+# Pegasusa-proV2.7 "a hacking tool"
 https://github.com/apache/incubator-pegasus.git
 
-# Thief Raccoon
+# Thief Raccoon 
 https://github.com/davenisc/thief_raccoon.git
 
-# Fluxion
+# Fluxion "hifi hacking "
 https://github.com/FluxionNetwork/fluxion.git
 
-# world Monitor 
+# world Monitor "Monitoring interface"
 https://github.com/koala73/worldmonitor.git
 
-# GhostTrack
+# GhostTrack "ip location track,  phone no track , etc"
 https://github.com/HunxByts/GhostTrack.git
 
 # evilgnix
