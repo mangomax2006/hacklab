@@ -70,3 +70,6 @@ https://github.com/aaronjmars/MiroShark.git
 
 # Decryption "a autonomous red team"
 https://github.com/PurpleAILAB/Decepticon.git
+
+# juice-shop 
+https://github.com/juice-shop/juice-shop.git
