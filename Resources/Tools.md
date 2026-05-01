@@ -79,3 +79,6 @@ https://github.com/digininja/DVWA.git
 
 # Hacktricks "Your all-in-one cheat sheet for payloads, enumeration & attack logic"
 https://github.com/HackTricks-wiki/hacktricks.git
+
+# PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings.git
