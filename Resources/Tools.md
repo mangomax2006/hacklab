@@ -82,3 +82,6 @@ https://github.com/HackTricks-wiki/hacktricks.git
 
 # PayloadsAllTheThings
 https://github.com/swisskyrepo/PayloadsAllTheThings.git
+
+# The-Art-of-Hacking/h4cker "Massive curated collection of free labs, books, tools & resources"
+https://github.com/The-Art-of-Hacking/h4cker.git
