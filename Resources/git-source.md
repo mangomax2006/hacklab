@@ -87,3 +87,6 @@ https://github.com/megadose/OnionSearch.git
 
 # PentestGpt
 https://github.com/GreyDGL/PentestGPT.git
+
+# revpdf
+https://github.com/pranay-root/revpdf.git
